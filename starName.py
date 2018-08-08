@@ -68,4 +68,4 @@ def stringtoValue(st):
             value = value - alpToVal(st[i])
     return value
 
-print(stringtoValue("kasiyopeya"))
+print(stringtoValue("origa"))
